@@ -4,7 +4,7 @@
 
 devices:
   256:
-    name: USBHub
+    name: USBHub lmao
   1024:
     name: Poke
   1040: &harptechdevice
